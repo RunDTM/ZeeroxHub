@@ -1,5 +1,5 @@
-# ZeeroxHub
-very cool hub
+# Zeerox Hub
+Best free roblox script hub
 ## Script:
 ```lua
 loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/Loader.lua')()
