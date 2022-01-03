@@ -1,6 +1,6 @@
 # ZeeroxHub
 very cool hub
-##Script
+## Script:
 ```lua
 loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/Loader.lua')()
 ```
