@@ -7,7 +7,7 @@ loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/
 ## Current games:
 - Tower Of Hell
 
-The script also has universal features
+The script hub also has universal gui
 ## Screenshots (Universal):
 ![Screenshot #1](https://i.imgur.com/5YS88TM.png)
 
