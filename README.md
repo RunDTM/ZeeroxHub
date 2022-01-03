@@ -5,7 +5,9 @@ Best free roblox script hub
 loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/Loader.lua')()
 ```
 ## Current games:
-- Tower Of Hell (the script also have universal features)
+- Tower Of Hell
+
+The script also has universal features
 ## Screenshots (Universal):
 ![Screenshot #1](https://i.imgur.com/5YS88TM.png)
 
