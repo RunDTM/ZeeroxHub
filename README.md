@@ -1,5 +1,5 @@
 # Zeerox Hub
-![Discord](https://discord.gg/aQcDpjmFjk)
+[Discord](https://discord.gg/aQcDpjmFjk)
 ## Script:
 ```lua
 loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/Loader.lua')()
