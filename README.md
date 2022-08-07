@@ -6,6 +6,7 @@ loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/
 ```
 ## Current games:
 - Mining Simulator 2
+- Pet Simulator X
 - Tower Of Hell
 - Natural Disaster Survival
 - Life In Prison
