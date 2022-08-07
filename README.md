@@ -7,7 +7,6 @@ loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/
 ## Current games:
 - Tower Of Hell
 - Criminal Russia RP
-- Natural Disaster Survival
 
 The script hub also has universal gui
 ## Screenshots (Universal):
