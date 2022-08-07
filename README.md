@@ -8,6 +8,7 @@ loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/
 - Tower Of Hell
 - Natural Disaster Survival
 - Life In Prison
+- 3008
 
 The script hub also has universal gui
 ## Screenshots (Universal):
