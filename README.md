@@ -7,6 +7,7 @@ loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/
 ## Current games:
 - Tower Of Hell
 - Natural Disaster Survival
+- Life In Prison
 
 The script hub also has universal gui
 ## Screenshots (Universal):
