@@ -5,6 +5,7 @@
 loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/Loader.lua')()
 ```
 ## Current games:
+- Mining Simulator 2
 - Tower Of Hell
 - Natural Disaster Survival
 - Life In Prison
