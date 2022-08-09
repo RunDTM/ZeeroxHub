@@ -13,6 +13,7 @@ loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/
 - 3008
 - The Rake REMASTERED
 - Build A Boat For Treasure
+- Arsenal
 
 The script hub also has universal gui
 ## Screenshots (Universal) (Old):
